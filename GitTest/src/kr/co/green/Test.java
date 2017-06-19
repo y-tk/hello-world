@@ -7,5 +7,6 @@ public class Test {
 	int c;
 	
 	public void me1(){};
-	public void me2(){};
+	public void me3(){};
+	
 }
